@@ -14,6 +14,7 @@ describe('advanced', () => {
     expect(hasTen).toBe(true)
     expect(indexOfTen).toBe(1)
   })
+  
 
   // 2. Use a for loop to count how many numbers in the array are divisible by 3
   it('Check divisible by three count', () => {
